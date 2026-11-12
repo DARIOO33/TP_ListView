@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="hint_contact">Sélectionnez un contact à modifier</string>
+    <string name="btn_modifier">Modifier</string>
+    <string name="msg_aucune_selection">Sélectionnez d\'abord un contact</string>
+    <string name="msg_nom_vide">Le nom ne peut pas être vide</string>
+
+    <!-- Exercices bonus -->
+    <string name="btn_ajouter">Ajouter</string>
+    <string name="msg_astuce">Appui long sur un contact pour le supprimer</string>
+    <string name="msg_doublon">Ce nom existe déjà dans la liste</string>
+    <string name="dlg_supprimer_titre">Supprimer le contact</string>
+    <string name="dlg_supprimer_message">Voulez-vous vraiment supprimer « %1$s » ?</string>
+    <string name="dlg_oui">Supprimer</string>
+    <string name="dlg_non">Annuler</string>
+    <string name="msg_modifie">Contact modifié : %1$s</string>
+    <string name="msg_ajoute">Contact ajouté : %1$s</string>
+    <string name="msg_supprime">Contact supprimé : %1$s</string>
+</resources>
